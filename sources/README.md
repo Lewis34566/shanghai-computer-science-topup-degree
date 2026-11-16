@@ -1,6 +1,6 @@
 # 数据来源与核验方法
 
-本目录存放《个人对上海专升本的总结》（Top-up degree programmes at universities in Shanghai, China）的一手资料。
+本目录存放《上海计算机类专升本》（Top-up degree programmes in computer science, Shanghai, China）的一手资料。
 
 原则：**结论可以争论，数据必须可查。** 文中每一处"计划数、考试科目、满分、学费、对口要求、录取规则"，都应能在下面某份章程里找到原句。
 
